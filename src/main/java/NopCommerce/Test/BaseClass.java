@@ -30,7 +30,8 @@ public class BaseClass {
             pageFactory = new PageFactory(driver);
         }
     }
-  //  @AfterClass
+
+    @AfterClass
     public static void close() {
         driver.quit();
     }
