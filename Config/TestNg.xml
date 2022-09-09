@@ -15,12 +15,5 @@
             <class name="NopCommerce.Test.VerifyThatUserIsAbleToSearchProduct"/>
         </classes>
     </test>
-<!--    <test name="Verify that user is able to search and view his leaves">-->
-<!--        <parameter name="browserName" value="Chrome"></parameter>-->
-<!--        <parameter name="testRunId3" value="TC-3"/>-->
-<!--        <classes>-->
-<!--            <class name="OrangeHrm.Test.VerifyThatUserIsAbleToSearchAndViewHisLeave"/>-->
-<!--        </classes>-->
-<!--    </test>-->
 
 </suite>
